@@ -2,7 +2,7 @@
 # Cyra Defender: My Cybersecurity Learning Journey
 
 Welcome to my GitHub!  
-I’m Shreyanshi, building my professional identity as **Cyra Defender**.  
+I am building my professional identity as **Cyra Defender**.  
 
 ## 🎯 About Me
 - B.Sc. student in Physics, Chemistry, and Mathematics (First Semester)
